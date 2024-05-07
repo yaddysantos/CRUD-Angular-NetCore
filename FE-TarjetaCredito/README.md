@@ -25,3 +25,11 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Installing and add Bootstrap
+
+First at all, need to install on the console the next command `npm i bootstrap@5.3.3` then into the angular.json add in the styles `"node_modules/bootstrap/dist/css/bootstrap.min.css"`
+
+## Add default colors
+
+In this web page of UiGradients `https://uigradients.com/#RainbowBlue` can pick up one gradient and add inside of style css
